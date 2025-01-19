@@ -1,4 +1,8 @@
+![](https://raw.githubusercontent.com/unton3ton/LLMs/refs/heads/main/Fine%20Tuning%20Large%20Language%20Model%20(LLM)/semantic-search.webp)
 
+![](https://raw.githubusercontent.com/unton3ton/LLMs/refs/heads/main/Fine%20Tuning%20Large%20Language%20Model%20(LLM)/c3d80e3b014087bc66b2809e4e095ae5.png)
+
+![](https://raw.githubusercontent.com/unton3ton/LLMs/refs/heads/main/GogolGPT/photo_2024-06-25_06-14-44.jpg)
 
 # Sources
  
