@@ -1,10 +1,10 @@
-![]()
+![](https://raw.githubusercontent.com/unton3ton/LLMs/refs/heads/main/scale_1200.jpg)
 
-![]()
+![](https://raw.githubusercontent.com/unton3ton/LLMs/refs/heads/main/GogolGPT/maxresdefault.jpg)
 
-![]()
+![](https://raw.githubusercontent.com/unton3ton/LLMs/refs/heads/main/GogolGPT/238152513-6e670334-d929-42be-8681-2ce803cf8b1a.png)
 
-![]()
+![](https://raw.githubusercontent.com/unton3ton/LLMs/refs/heads/main/RAG/a65c8197331c24fea7b7b4a5a0985795.png)
 
 # Source
  
